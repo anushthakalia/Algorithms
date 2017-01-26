@@ -1,2 +1,2 @@
-#Machine learning algorithms
-Implementation of some basic machine learning algorithms in MATLAB.
+#Algorithms
+Implementation of some basic algorithms.
